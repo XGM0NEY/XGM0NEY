@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XGM0NEY
-- 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning Lua, C#, and C++
-- 📫 How to reach me: Through discord (xgmoney)
+- 👋 Hi, I’m @XGM0NEY.
+- 👀 I’m interested in coding and sports.
+- 🌱 I’m currently learning Lua, C#, and C++.
+- 📫 How to reach me: Through discord (xgmoney).
